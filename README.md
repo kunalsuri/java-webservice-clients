@@ -1,2 +1,2 @@
-# java-webservice-clients
-Examples of Java WebService Clients to consume REST APIs via Node.jS and/ or any other servers
+# java-webservice-client
+Repo to create and test java clients to consume the REST based webservice running on different servers (Node.js et al.)
